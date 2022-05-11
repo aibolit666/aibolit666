@@ -1,6 +1,11 @@
-### Hello world! 👋
+### 👋 Hello world!
 ### My name is Pavel
 ## I am Frontend developer
+### 🛠 My tech stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aibolit666&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### Codewars
