@@ -1,6 +1,7 @@
 ### 👋 Hello world!
 ### My name is Pavel
-## I am Frontend developer
+## Frontend web developer focusing on React/TypeScript
+## Open to work
 ### 🛠 My tech stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -14,5 +15,4 @@
 ### Contacts 💬
 - [![Telegram](https://img.shields.io/badge/Telegram-Aibollit666-FFEA00?style=social&logo=Telegram)](https://t.me/Aibollit666)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-PavelPriladyshev-FFEA00?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-priladyshev)
-### Codewars
-[![Profile badge](https://www.codewars.com/users/Aibolit666/badges/large)](https://www.codewars.com/users/Aibolit666)
+- [![Profile badge](https://www.codewars.com/users/Aibolit666/badges/small)](https://www.codewars.com/users/Aibolit666)
