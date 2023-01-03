@@ -1,6 +1,6 @@
 ### 👋 Hello world!
-### My name is Pavel
-## Frontend web developer focusing on React/TypeScript
+## My name is Pavel
+### Frontend web developer focusing on React/TypeScript
 ## Open to work 💻
 ### 🛠 My tech stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
