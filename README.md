@@ -3,7 +3,6 @@
 ### I am Frontend web developer focusing on React/TypeScript
 ### 🛠 My tech stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -11,6 +10,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styledcomponents)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 -
 [![Pavel Priladyshev stats](https://github-readme-stats.vercel.app/api?username=aibolit666&show_icons=true&theme=merko&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 -
