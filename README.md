@@ -1,7 +1,8 @@
-## 👋 Hello world!
+## ![Static Badge](https://img.shields.io/badge/hello-world!-w?style=for-the-badge&logo=javascript)
 ### My name is Pavel
 ### I am Frontend web developer focusing on React/TypeScript
-### 🛠 My tech stack
+#
+##### 🛠 My tech stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
