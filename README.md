@@ -14,6 +14,7 @@
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-05122A?style=for-the-badge&logo=styledcomponents)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=mui)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux)&nbsp;
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=for-the-badge&logo=zustand&color=rgb(102%2C61%2C20))
 -
 ![English](https://img.shields.io/badge/English-B1-FFEA00?style=for-the-badge)
 -
